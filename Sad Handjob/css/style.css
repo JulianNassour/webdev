@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Advent+Pro');
+
+html, body, h1 {
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 42px;
+}
